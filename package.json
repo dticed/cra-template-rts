@@ -15,7 +15,8 @@
     "template",
     "eslint",
     "typescript",
-    "styled-components"
+    "styled-components",
+    "husky"
   ],
   "files": [
     "template",
