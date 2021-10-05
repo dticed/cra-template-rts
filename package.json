@@ -1,0 +1,32 @@
+{
+  "name": "cra-template-rts",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Lucas Pierre <lucaspierrealencar@gmail.com>",
+  "main": "template.json",
+  "description": "A quick start Create React App template with React, TypeScript, Styled Components, EsLint configurations and Husky",
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template",
+    "eslint",
+    "typescript",
+    "styled-components"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dticed/rts-boilerplate.git",
+    "directory": "/"
+  },
+  "bugs": {
+    "url": "https://github.com/dticed/rts-boilerplate/issues"
+  }
+}
